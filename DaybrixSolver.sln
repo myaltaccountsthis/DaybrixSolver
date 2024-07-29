@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaybrixSolver", "DaybrixSolver\DaybrixSolver.csproj", "{6E5997D9-491E-4152-899C-EDCE3933867E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E5997D9-491E-4152-899C-EDCE3933867E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5997D9-491E-4152-899C-EDCE3933867E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5997D9-491E-4152-899C-EDCE3933867E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5997D9-491E-4152-899C-EDCE3933867E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A170F8B5-13F7-4086-A4EE-42CF1A40ABA4}
+	EndGlobalSection
+EndGlobal
